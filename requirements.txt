@@ -24,7 +24,7 @@ importlib-resources==3.0.0
 itsdangerous==1.1.0
 Jinja2==2.11.2
 joblib==0.16.0
-lxml==4.2.1
+lxml==4.6.3
 MarkupSafe==1.1.1
 nltk==3.5
 Pillow==7.2.0
