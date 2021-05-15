@@ -1,0 +1,12 @@
+1) pip install flask
+2) set FLASK_APP = hello.py
+3) python -m flask run
+
+To turn on debug mode: 
+use FLASK_ENV=development
+
+To install forms:
+pip install flask-wtf
+
+To install Sql:
+pip install flask-sqlalchemy
